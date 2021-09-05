@@ -1,4 +1,4 @@
-# College_Placement_prediction
+# Web Appalication to Predict College_Placement_prediction
 
 #### The DataSet Contains Various Features Like Stream Of the Students to be Placed ,Age from 19 to 30, Number of Internship a Student has , CGPA , Gender etc For the Prediction.
 We Peformed Basic EDA to get Some Insight from the data.
@@ -41,3 +41,9 @@ From The Graph We can that that Students From Computer Science and It Has More C
                 [1]
  
  Here 30 is Age , We Enter 0 As Number of Internship, CGPA is 8 , Hostel as 0	, History Of Backlogs as 0, gender as 1 i.e Male and stream as 5 i.e Mechanical Engineering Stream and got the output of 1 Which is Placed.
+
+## Lets See it in Web Page :-
+
+![image](https://user-images.githubusercontent.com/25205826/132132063-c78561c9-0ba4-40a6-b696-50798bcd180f.png)
+
+### We here have Entered Age , Internship ,Cgpa ,backlogs ,Gender and Stream and the Model Predicted that the Student Will be Predicted.
