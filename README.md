@@ -46,4 +46,4 @@ From The Graph We can that that Students From Computer Science and It Has More C
 
 ![image](https://user-images.githubusercontent.com/25205826/132132063-c78561c9-0ba4-40a6-b696-50798bcd180f.png)
 
-### We here have Entered Age , Internship ,Cgpa ,backlogs ,Gender and Stream and the Model Predicted that the Student Will be Predicted.
+### We here Entered Age , Internship ,Cgpa ,backlogs ,Gender and Stream and the Model Predicted that the Student Will be Predicted.
